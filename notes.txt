@@ -5,3 +5,9 @@ git status => shows the files/folders that is added by the previous command
 git commit -m "Short detail on the commit" => prepares the files for updation to the repository (staging)
 
 git push origin master => pushes the commited files to repository
+
+
+git init 
+git add .
+git commit -m "Commit message"
+git remote add origin https://github.com/AKHILBABY07/CODING.git
